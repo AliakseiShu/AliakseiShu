@@ -1,10 +1,10 @@
-<img src="https:https://github.com/AliakseiShu/AliakseiShu/blob/main/1234.JPG"/>
+![Me](https:https://github.com/AliakseiShu/AliakseiShu/blob/main/1234.JPG)
 
 <h1 align="center">Hi 👋, I'm Aliaksei Shulha</h1>
 <h3 align="center">A passionate frontend developer from Belarus</h3>
 
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Tech Stack</h3>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
