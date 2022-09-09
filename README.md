@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Aliaksei Shulha</h1>
 <h3 align="center">A passionate frontend developer from Belarus</h3>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliakseiShu)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="center">Tech Stack</h3>
 <div align="center">
