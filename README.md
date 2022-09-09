@@ -1,4 +1,4 @@
-
+<img src="https:https://github.com/AliakseiShu/AliakseiShu/blob/main/1234.JPG"/>
 
 <h1 align="center">Hi 👋, I'm Aliaksei Shulha</h1>
 <h3 align="center">A passionate frontend developer from Belarus</h3>
