@@ -8,7 +8,7 @@
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=AliakseiShu&show_icons=true&theme=gruvbox" />
   </a>
    <a align="center" href="https://www.codewars.com/users/odin8908">
-<img align="center" height="18em" src="https://www.codewars.com/users/odin8908/badges/large" alt="odin8908 Alpha Codewars Badge">
+<img align="center" height="14em" src="https://www.codewars.com/users/odin8908/badges/large" alt="odin8908 Alpha Codewars Badge">
 </a>
     <a align="right"><img  height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliakseiShu&layout=compact&show_icons=true&theme=gruvbox" />
   </a>
