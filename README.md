@@ -9,7 +9,7 @@
 <img align="right" height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliakseiShu&layout=compact&show_icons=true&theme=gruvbox" />
 </a>
 <a href="https://www.codewars.com/users/odin8908">
-<img height="20em" src="https://www.codewars.com/users/odin8908/badges/large" alt="odin8908 Alpha Codewars Badge">
+<img align="center" height="20em" src="https://www.codewars.com/users/odin8908/badges/large" alt="odin8908 Alpha Codewars Badge">
 </a>
 </div>
 
