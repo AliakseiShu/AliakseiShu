@@ -12,8 +12,8 @@
 <img align="right" height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliakseiShu&layout=compact&show_icons=true&theme=gruvbox" />
 </a>
 </div>
-  
-<h3 align="center">Tech Stack</h3>
+<div>
+ <h3 align="center">Tech Stack</h3>
 <hr> 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -31,6 +31,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webstorm/webstorm-plain.svg" title="YARN" **alt="NPM" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="YARN" **alt="NPM" width="40" height="40"/>
   <hr> 
+</div>
 </div>
 <div>
   <p align="center"> 
