@@ -4,11 +4,11 @@
  <hr> 
 <div>
 <a href="https://github.com/anuraghazra/convoychat">
-<img align="center" height="134em" src="https://github-readme-stats.vercel.app/api?username=AliakseiShu&show_icons=true&theme=gruvbox" />
+<img align="center" height="135em" src="https://github-readme-stats.vercel.app/api?username=AliakseiShu&show_icons=true&theme=gruvbox" />
 </a>
-<a align="center"> <img  height="20em"  src="https://www.codewars.com/users/odin8908/badges/large" alt="Achhoubi Alpha Codewars Badge"></a>
+<a align="center"> <img  height="18em"  src="https://www.codewars.com/users/odin8908/badges/large" alt="Achhoubi Alpha Codewars Badge"></a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="right" height="134em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliakseiShu&layout=compact&show_icons=true&theme=gruvbox" />
+<img align="right" height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliakseiShu&layout=compact&show_icons=true&theme=gruvbox" />
 </a>
 </div>
   <hr> 
