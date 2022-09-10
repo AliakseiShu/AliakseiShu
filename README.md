@@ -2,13 +2,14 @@
 <h2 align="center"> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
  <div align="center"> 
   <a  align="left" href="https://github.com/AliakseiShu?tab=repositories">   
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=AliakseiShu&show_icons=true&theme=gruvbox" />
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=AliakseiShu&show_icons=true&theme=gruvbox" />
   </a>
+   <a align="right" href="https://github.com/AliakseiShu?tab=repositories"><img  height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliakseiShu&layout=compact&show_icons=true&theme=gruvbox" />
+  </a>
+   <br>
    <a align="center" href="https://www.codewars.com/users/odin8908">
-<img align="center" height="14em" src="https://www.codewars.com/users/odin8908/badges/large" alt="odin8908 Alpha Codewars Badge">
+<img align="center" height="25em" src="https://www.codewars.com/users/odin8908/badges/large" alt="odin8908 Alpha Codewars Badge">
 </a>
-    <a align="right" href="https://github.com/AliakseiShu?tab=repositories"><img  height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliakseiShu&layout=compact&show_icons=true&theme=gruvbox" />
-  </a>
    <hr>  
 </div>
 
@@ -35,6 +36,7 @@
   <p align="center">  
   <img src="https://profile-counter.glitch.me/{AliakseiShu}/count.svg" />
 </p>
+    <hr>  
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How to reach me: ...
   <p align="left">  
   <a href="https://www.linkedin.com/in/react-redux-typescript-javascript-aliaksei-shulha-front-end/">
@@ -44,6 +46,7 @@
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;" />
   </a>
 </p>
+    <hr>  
 </div>
 
 
