@@ -1,4 +1,4 @@
-![Me](https:https://github.com/AliakseiShu/AliakseiShu/blob/main/1234.JPG)
+![Header](https://github.com/AliakseiShu/AliakseiShu/blob/main/assets/1234.JPG)(https://www.linkedin.com/in/react-redux-typescript-javascript-aliaksei-shulha-front-end/)
 
 <h1 align="center">Hi 👋, I'm Aliaksei Shulha</h1>
 <h3 align="center">A passionate frontend developer from Belarus</h3>
