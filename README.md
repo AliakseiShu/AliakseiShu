@@ -1,4 +1,3 @@
-[![Header](https://github.com/AliakseiShu/AliakseiShu/blob/main/assets/1234.JPG)](https://www.linkedin.com/in/react-redux-typescript-javascript-aliaksei-shulha-front-end/)
 <div align="center"> 
   <a  align="left" href="https://github.com/AliakseiShu?tab=repositories">   
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=AliakseiShu&show_icons=true&theme=gruvbox" />
