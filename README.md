@@ -5,7 +5,6 @@
    <a align="right" href="https://github.com/AliakseiShu?tab=repositories"><img  height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliakseiShu&layout=compact&show_icons=true&theme=gruvbox" />
   </a>
 
-
    <br>
   <a align="center" href="https://www.codewars.com/users/odin8908">
   <img align="center" height="25em" src="https://www.codewars.com/users/odin8908/badges/large" alt="odin8908 Alpha Codewars Badge">
