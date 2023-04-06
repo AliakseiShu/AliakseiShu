@@ -7,7 +7,8 @@
    <br>
   <a align="center" href="https://www.codewars.com/users/odin8908">
   <img align="center" height="25em" src="https://www.codewars.com/users/odin8908/badges/large" alt="odin8908 Alpha Codewars Badge">
-  </a> 
+  </a>
+
 </div>
 <h2 align="center">Tech Stack</h3>
 <div align="center">
